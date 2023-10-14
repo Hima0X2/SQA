@@ -1,0 +1,2 @@
+newman run restful-booker.postman_collection.json -e newshikhi.postman_environment.json -r cli,html
+newman run restful-booker.postman_collection.json -e newshikhi.postman_environment.json -r cli,htmlextra
